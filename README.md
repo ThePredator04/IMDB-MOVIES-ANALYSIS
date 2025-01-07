@@ -32,10 +32,10 @@ This project showcases my SQL expertise through a comprehensive analysis of a mo
 
            SELECT COUNT(*) AS total_movies FROM movies;
      
-           SELECT release_year, COUNT(*) AS movie_count
-		       FROM movies
-		       GROUP BY release_year
-		       ORDER BY release_year DESC;
+            SELECT release_year, COUNT(*) AS movie_count
+	        FROM movies
+	        GROUP BY release_year
+	        ORDER BY release_year DESC;
 
            SELECt title, imdb_rating
            FROM movies
@@ -192,3 +192,19 @@ where title like '%avenger%';
      on a.movie_id=c.movie_id 
      where profit_pct>=600;
 ```
+
+
+## Findings
+
+
+**Revenue and Profit Analysis:** : Movies were analyzed for their revenue, profit, and profitability percentages, identifying high-performing titles with profit values converted into millions. 
+
+**Genre and Franchise Insights:**:Movies were analyzed to uncover insights into their release patterns and evolving popularity trends over the years, offering a comprehensive understanding of their performance.
+
+**IMDb Ratings Insights:**:Movies with the highest and lowest IMDb ratings were identified, along with a comparison to highlight movies that outperformed their peers.
+
+
+
+## Conclusion
+
+This project demonstrated my SQL expertise through a detailed analysis of a movie dataset. By conducting exploratory data analysis (EDA) and addressing targeted business and analytical questions with SQL queries, we uncovered valuable insights.
