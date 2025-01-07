@@ -197,11 +197,11 @@ where title like '%avenger%';
 ## Findings
 
 
-**Revenue and Profit Analysis:** : Movies were analyzed for their revenue, profit, and profitability percentages, identifying high-performing titles with profit values converted into millions. 
+**Revenue and Profit Analysis:**  Movies were analyzed for their revenue, profit, and profitability percentages, identifying high-performing titles with profit values converted into millions. 
 
-**Genre and Franchise Insights:**:Movies were analyzed to uncover insights into their release patterns and evolving popularity trends over the years, offering a comprehensive understanding of their performance.
+**Genre and Franchise Insights:** Movies were analyzed to uncover insights into their release patterns and evolving popularity trends over the years, offering a comprehensive understanding of their performance.
 
-**IMDb Ratings Insights:**:Movies with the highest and lowest IMDb ratings were identified, along with a comparison to highlight movies that outperformed their peers.
+**IMDB Ratings Insights:** Movies with the highest and lowest IMDB ratings were identified, along with a comparison to highlight movies that outperformed their peers.
 
 
 
